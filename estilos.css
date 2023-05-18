@@ -1,0 +1,68 @@
+footer {
+    mask-position: fixed;
+    left: 50px;
+    bottom: 0;
+    width:100% ;
+    background-color: rgba(18, 60, 136, 0.467);
+    color:cornflowerblue;
+    text-align: right;
+
+}
+.cabecalho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+.corpo{
+    background-color: rgb(187, 163, 197);
+    text-align: center;
+    font-size:center ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif     ;
+}
+.scrollmenu {
+    position: static;
+    background-color: rgb(115, 83, 159);
+    font-size:large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px; 
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+    width: 50%;
+}
+.img {
+    border-radius: 50%;
+}
+
+.title {
+    background-color:  rgb(115, 83, 159);
+    color: rgb(241, 241, 241);
+    text-align: center;
+    width: 50%;
+    position: static;
+    
+}
+
+.link {
+ color: antiquewhite;
+ text-decoration: underline;
+ text-align: justify;
+}
+
+.div3{
+    position: static;
+    background-color: rgb(115, 83, 159);
+    font-size:large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px; 
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    width: 50%;
+}
+.font{
+    text-align: center;   
+    
+}
